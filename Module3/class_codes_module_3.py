@@ -190,7 +190,7 @@ set(mygroceries) # -> {'apples', 'oranges', 'bananas'}
 # Then convert it back to a list
 list(set(mygroceries)) # -> ['apples', 'oranges', 'bananas']
 
-
+# AGORA EU FIZ UMAS MUDANCAS AQUI
 
 
 
